@@ -1,0 +1,10 @@
+Project  : Koperasi.in
+Creator : Muhamad Jalaludin
+
+steps intsalasi: 
+1. simpan folder koperasi dalam "F:\Xampp\htdocs\koperasi" (sesuaikan dengan lokasi htdocs masing-masing)
+2. import database db_koperasi di dalam PhpMyAdmin
+
+*keterangan :
+1. folder koperasi merupakan source code untuk bagian php
+2. folder ProjectKoperasi merupakan source code untuk bagian java netbeans
